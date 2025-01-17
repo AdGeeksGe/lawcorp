@@ -16,7 +16,7 @@
         <meta name="keywords" content="Move to Georgia, Georgia relocation, visa assistance Georgia, real estate Georgia, living in Georgia, relocation support Georgia">
         
         <!-- Open Graph / Facebook -->
-        <meta property="og:title" content="Move to Georgia">
+        <meta property="og:title" content=<?php echo $main_title; ?>>
         <meta property="og:description" content="Discover everything you need to know about moving to Georgia, including visa assistance, real estate options, and relocation services.">
         <meta property="og:image" content="https://example.com/og-image.jpg"> <!-- Replace with your image URL -->
         <meta property="og:url" content="https://movetogeorgia.ge">
@@ -24,7 +24,7 @@
         
         <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Move to Georgia">
+        <meta name="twitter:title" content=<?php echo $main_title; ?>>
         <meta name="twitter:description" content="Discover everything you need to know about moving to Georgia, including visa assistance, real estate options, and relocation services.">
         <meta name="twitter:image" content="https://example.com/og-image.jpg"> <!-- Replace with your image URL -->
         
